@@ -21,9 +21,8 @@ body {
 }
 
 img {
-  width: 100%
+  width: 100%;
   float: left;
-  display: block;
 }
 
 img:nth-child(2) {

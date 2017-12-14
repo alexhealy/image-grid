@@ -27,7 +27,7 @@ img {
 }
 
 img:nth-child(2) {
-  display: flex;
+  display: none;
 }
 
 img:nth-child(5) {
